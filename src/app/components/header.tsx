@@ -13,7 +13,7 @@ import { Menu } from "lucide-react";
 
 const Header: React.FC = () => {
   return (
-    <header className="w-full h-15 flex justify-between items-center bg-gray-500 bg-white ">
+    <header className="w-full h-15 flex justify-between items-center  bg-white-200 ">
       <div className="text-3xl font-bold pl-3">{"Shar"}</div>
       <ul className="hidden md:block">
         <li className="space-x-12 pr-3">
@@ -32,13 +32,13 @@ const Header: React.FC = () => {
     <SheetHeader>
       <SheetTitle>Rizwan Ahmed Shar</SheetTitle>
       <SheetDescription>
-      <ul>
-        <li className=" flex flex-col gap-y-4">
-          <Link href="/">Home</Link>
-          <Link href="/about">About</Link>
+      <ul >
+        <li className=" flex flex-col gap-y-4 ">
+          <Link href="/" >Home</Link>
+          <Link href="/about" >About</Link>
           <Link href="/service">Service</Link>
           <Link href="/contact">Contact</Link>
-          <button className=" bg-gray-800 text-white py-3 px-4 rounded-lg">Download CV</button>
+          <button className=" bg-gray-800 text-white py-3 px-4 rounded-lg">Hire Now</button>
         </li>
       </ul>
       </SheetDescription>
