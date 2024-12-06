@@ -15,7 +15,7 @@ className="w-[320px] h-[250px]"
 ></Image>
   </div>
   <div className="w-full p-5 md:w-[60%] space-y-5">
-     <h1 className="text-3xl"> Hi' IM Rizwan Ahmed </h1>
+     <h1 className="text-3xl"> Hi&apos; IM Rizwan Ahmed </h1>
   <p>
   A developer is someone who creates, builds, and maintains applications
    systems, or software solutions using programming languages, tools, and technologies. </p>

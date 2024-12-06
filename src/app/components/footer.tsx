@@ -6,7 +6,6 @@
 //     )
 // }
 // export default Footer
-import Image from "next/image"
 import { IoMdMail } from "react-icons/io";
 import { FaPhoneSquareAlt } from "react-icons/fa";
 import { FaRegCopy } from "react-icons/fa6";
