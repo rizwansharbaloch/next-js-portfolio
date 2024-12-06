@@ -8,7 +8,7 @@ function Skill(){
     <div>
         <div className="flex flex-col justify-center items-center" >
             <div className="bg-gray-400 w-[100px] h-10 flex justify-center items-center rounded pt text-xl mt-6">Skill</div>
-            <p className="mt-3 text-center md:text-lg">"Skills are the building blocks of success, unlocking opportunities and driving innovation in every field."</p>
+            <p className="mt-3 text-center md:text-lg">&quot;Skills are the building blocks of success, unlocking opportunities and driving innovation in every field.&quot;</p>
         </div>
         <div className="w-full  md:w-[100%] flex flex-wrap justify-center items-center gap-4 mt-10 p-20">
             <div className="flex">
